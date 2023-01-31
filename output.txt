@@ -1,0 +1,728 @@
+{
+    "SequenceNumber": 141,
+    "TotalLength": 78,
+    "SourceAddress": null,
+    "TempHumi": {
+        "Range": 0,
+        "Event": 0,
+        "SenVal": 24500
+    },
+    "Accelerometer": {
+        "X-Axis": {
+            "SenEvent": 0,
+            "OAVelocity": 20,
+            "Peakmg": 30,
+            "RMSmg": 21,
+            "Kurtosis": -12,
+            "CrestFactor": 359,
+            "Skewness": 46,
+            "Deviation": 24,
+            "Peak-to-Peak Displacement": 6
+        },
+        "Y-Axis": {
+            "SenEvent": 0,
+            "OAVelocity": 21,
+            "Peakmg": 32,
+            "RMSmg": 23,
+            "Kurtosis": -26,
+            "CrestFactor": 654,
+            "Skewness": 38,
+            "Deviation": 26,
+            "Peak-to-Peak Displacement": 4
+        },
+        "Z-Axis": {
+            "SenEvent": 0,
+            "OAVelocity": 27,
+            "Peakmg": 38,
+            "RMSmg": 27,
+            "Kurtosis": 0,
+            "CrestFactor": 0,
+            "Skewness": 0,
+            "Deviation": 0,
+            "Peak-to-Peak Displacement": 0
+        },
+        "LogIndex": 0
+    },
+    "Device": {
+        "Events": 0,
+        "PowerSrc": 1,
+        "BatteryVolt": 0,
+        "Time": 1552537415
+    }
+}
+{
+    "SequenceNumber": 141,
+    "TotalLength": 78,
+    "SourceAddress": null,
+    "TempHumi": {
+        "Range": 0,
+        "Event": 0,
+        "SenVal": 24500
+    },
+    "Accelerometer": {
+        "X-Axis": {
+            "SenEvent": 0,
+            "OAVelocity": 20,
+            "Peakmg": 30,
+            "RMSmg": 21,
+            "Kurtosis": -12,
+            "CrestFactor": 359,
+            "Skewness": 46,
+            "Deviation": 24,
+            "Peak-to-Peak Displacement": 6
+        },
+        "Y-Axis": {
+            "SenEvent": 0,
+            "OAVelocity": 21,
+            "Peakmg": 32,
+            "RMSmg": 23,
+            "Kurtosis": -26,
+            "CrestFactor": 654,
+            "Skewness": 38,
+            "Deviation": 26,
+            "Peak-to-Peak Displacement": 4
+        },
+        "Z-Axis": {
+            "SenEvent": 0,
+            "OAVelocity": 27,
+            "Peakmg": 38,
+            "RMSmg": 27,
+            "Kurtosis": 0,
+            "CrestFactor": 0,
+            "Skewness": 0,
+            "Deviation": 0,
+            "Peak-to-Peak Displacement": 0
+        },
+        "LogIndex": 0
+    },
+    "Device": {
+        "Events": 0,
+        "PowerSrc": 1,
+        "BatteryVolt": 0,
+        "Time": 1552537415
+    }
+}
+{
+    "SequenceNumber": 141,
+    "TotalLength": 78,
+    "SourceAddress": null,
+    "TempHumi": {
+        "Range": 0,
+        "Event": 0,
+        "SenVal": 24500
+    },
+    "Accelerometer": {
+        "X-Axis": {
+            "SenEvent": 0,
+            "OAVelocity": 20,
+            "Peakmg": 30,
+            "RMSmg": 21,
+            "Kurtosis": -12,
+            "CrestFactor": 359,
+            "Skewness": 46,
+            "Deviation": 24,
+            "Peak-to-Peak Displacement": 6
+        },
+        "Y-Axis": {
+            "SenEvent": 0,
+            "OAVelocity": 21,
+            "Peakmg": 32,
+            "RMSmg": 23,
+            "Kurtosis": -26,
+            "CrestFactor": 654,
+            "Skewness": 38,
+            "Deviation": 26,
+            "Peak-to-Peak Displacement": 4
+        },
+        "Z-Axis": {
+            "SenEvent": 0,
+            "OAVelocity": 27,
+            "Peakmg": 38,
+            "RMSmg": 27,
+            "Kurtosis": 0,
+            "CrestFactor": 0,
+            "Skewness": 0,
+            "Deviation": 0,
+            "Peak-to-Peak Displacement": 0
+        },
+        "LogIndex": 0
+    },
+    "Device": {
+        "Events": 0,
+        "PowerSrc": 1,
+        "BatteryVolt": 0,
+        "Time": 1552537415
+    }
+}
+{
+    "SequenceNumber": 141,
+    "TotalLength": 78,
+    "SourceAddress": null,
+    "TempHumi": {
+        "Range": 0,
+        "Event": 0,
+        "SenVal": 24500
+    },
+    "Accelerometer": {
+        "X-Axis": {
+            "SenEvent": 0,
+            "OAVelocity": 20,
+            "Peakmg": 30,
+            "RMSmg": 21,
+            "Kurtosis": -12,
+            "CrestFactor": 359,
+            "Skewness": 46,
+            "Deviation": 24,
+            "Peak-to-Peak Displacement": 6
+        },
+        "Y-Axis": {
+            "SenEvent": 0,
+            "OAVelocity": 21,
+            "Peakmg": 32,
+            "RMSmg": 23,
+            "Kurtosis": -26,
+            "CrestFactor": 654,
+            "Skewness": 38,
+            "Deviation": 26,
+            "Peak-to-Peak Displacement": 4
+        },
+        "Z-Axis": {
+            "SenEvent": 0,
+            "OAVelocity": 27,
+            "Peakmg": 38,
+            "RMSmg": 27,
+            "Kurtosis": 0,
+            "CrestFactor": 0,
+            "Skewness": 0,
+            "Deviation": 0,
+            "Peak-to-Peak Displacement": 0
+        },
+        "LogIndex": 0
+    },
+    "Device": {
+        "Events": 0,
+        "PowerSrc": 1,
+        "BatteryVolt": 0,
+        "Time": 1552537415
+    }
+}
+{
+    "SequenceNumber": 141,
+    "TotalLength": 78,
+    "SourceAddress": null,
+    "TempHumi": {
+        "Range": 0,
+        "Event": 0,
+        "SenVal": 24500
+    },
+    "Accelerometer": {
+        "X-Axis": {
+            "SenEvent": 0,
+            "OAVelocity": 20,
+            "Peakmg": 30,
+            "RMSmg": 21,
+            "Kurtosis": -12,
+            "CrestFactor": 359,
+            "Skewness": 46,
+            "Deviation": 24,
+            "Peak-to-Peak Displacement": 6
+        },
+        "Y-Axis": {
+            "SenEvent": 0,
+            "OAVelocity": 21,
+            "Peakmg": 32,
+            "RMSmg": 23,
+            "Kurtosis": -26,
+            "CrestFactor": 654,
+            "Skewness": 38,
+            "Deviation": 26,
+            "Peak-to-Peak Displacement": 4
+        },
+        "Z-Axis": {
+            "SenEvent": 0,
+            "OAVelocity": 27,
+            "Peakmg": 38,
+            "RMSmg": 27,
+            "Kurtosis": 0,
+            "CrestFactor": 0,
+            "Skewness": 0,
+            "Deviation": 0,
+            "Peak-to-Peak Displacement": 0
+        },
+        "LogIndex": 0
+    },
+    "Device": {
+        "Events": 0,
+        "PowerSrc": 1,
+        "BatteryVolt": 0,
+        "Time": 1552537415
+    }
+}
+{
+    "SequenceNumber": 141,
+    "TotalLength": 78,
+    "SourceAddress": null,
+    "TempHumi": {
+        "Range": 0,
+        "Event": 0,
+        "SenVal": 24500
+    },
+    "Accelerometer": {
+        "X-Axis": {
+            "SenEvent": 0,
+            "OAVelocity": 20,
+            "Peakmg": 30,
+            "RMSmg": 21,
+            "Kurtosis": -12,
+            "CrestFactor": 359,
+            "Skewness": 46,
+            "Deviation": 24,
+            "Peak-to-Peak Displacement": 6
+        },
+        "Y-Axis": {
+            "SenEvent": 0,
+            "OAVelocity": 21,
+            "Peakmg": 32,
+            "RMSmg": 23,
+            "Kurtosis": -26,
+            "CrestFactor": 654,
+            "Skewness": 38,
+            "Deviation": 26,
+            "Peak-to-Peak Displacement": 4
+        },
+        "Z-Axis": {
+            "SenEvent": 0,
+            "OAVelocity": 27,
+            "Peakmg": 38,
+            "RMSmg": 27,
+            "Kurtosis": 0,
+            "CrestFactor": 0,
+            "Skewness": 0,
+            "Deviation": 0,
+            "Peak-to-Peak Displacement": 0
+        },
+        "LogIndex": 0
+    },
+    "Device": {
+        "Events": 0,
+        "PowerSrc": 1,
+        "BatteryVolt": 0,
+        "Time": 1552537415
+    }
+}
+{
+    "SequenceNumber": 141,
+    "TotalLength": 78,
+    "SourceAddress": null,
+    "TempHumi": {
+        "Range": 0,
+        "Event": 0,
+        "SenVal": 24500
+    },
+    "Accelerometer": {
+        "X-Axis": {
+            "SenEvent": 0,
+            "OAVelocity": 20,
+            "Peakmg": 30,
+            "RMSmg": 21,
+            "Kurtosis": -12,
+            "CrestFactor": 359,
+            "Skewness": 46,
+            "Deviation": 24,
+            "Peak-to-Peak Displacement": 6
+        },
+        "Y-Axis": {
+            "SenEvent": 0,
+            "OAVelocity": 21,
+            "Peakmg": 32,
+            "RMSmg": 23,
+            "Kurtosis": -26,
+            "CrestFactor": 654,
+            "Skewness": 38,
+            "Deviation": 26,
+            "Peak-to-Peak Displacement": 4
+        },
+        "Z-Axis": {
+            "SenEvent": 0,
+            "OAVelocity": 27,
+            "Peakmg": 38,
+            "RMSmg": 27,
+            "Kurtosis": 0,
+            "CrestFactor": 0,
+            "Skewness": 0,
+            "Deviation": 0,
+            "Peak-to-Peak Displacement": 0
+        },
+        "LogIndex": 0
+    },
+    "Device": {
+        "Events": 0,
+        "PowerSrc": 1,
+        "BatteryVolt": 0,
+        "Time": 1552537415
+    }
+}
+{
+    "SequenceNumber": 141,
+    "TotalLength": 78,
+    "SourceAddress": null,
+    "TempHumi": {
+        "Range": 0,
+        "Event": 0,
+        "SenVal": 24500
+    },
+    "Accelerometer": {
+        "X-Axis": {
+            "SenEvent": 0,
+            "OAVelocity": 20,
+            "Peakmg": 30,
+            "RMSmg": 21,
+            "Kurtosis": -12,
+            "CrestFactor": 359,
+            "Skewness": 46,
+            "Deviation": 24,
+            "Peak-to-Peak Displacement": 6
+        },
+        "Y-Axis": {
+            "SenEvent": 0,
+            "OAVelocity": 21,
+            "Peakmg": 32,
+            "RMSmg": 23,
+            "Kurtosis": -26,
+            "CrestFactor": 654,
+            "Skewness": 38,
+            "Deviation": 26,
+            "Peak-to-Peak Displacement": 4
+        },
+        "Z-Axis": {
+            "SenEvent": 0,
+            "OAVelocity": 27,
+            "Peakmg": 38,
+            "RMSmg": 27,
+            "Kurtosis": 0,
+            "CrestFactor": 0,
+            "Skewness": 0,
+            "Deviation": 0,
+            "Peak-to-Peak Displacement": 0
+        },
+        "LogIndex": 0
+    },
+    "Device": {
+        "Events": 0,
+        "PowerSrc": 1,
+        "BatteryVolt": 0,
+        "Time": 1552537415
+    }
+}
+{
+    "SequenceNumber": 141,
+    "TotalLength": 78,
+    "SourceAddress": null,
+    "TempHumi": {
+        "Range": 0,
+        "Event": 0,
+        "SenVal": 24500
+    },
+    "Accelerometer": {
+        "X-Axis": {
+            "SenEvent": 0,
+            "OAVelocity": 20,
+            "Peakmg": 30,
+            "RMSmg": 21,
+            "Kurtosis": -12,
+            "CrestFactor": 359,
+            "Skewness": 46,
+            "Deviation": 24,
+            "Peak-to-Peak Displacement": 6
+        },
+        "Y-Axis": {
+            "SenEvent": 0,
+            "OAVelocity": 21,
+            "Peakmg": 32,
+            "RMSmg": 23,
+            "Kurtosis": -26,
+            "CrestFactor": 654,
+            "Skewness": 38,
+            "Deviation": 26,
+            "Peak-to-Peak Displacement": 4
+        },
+        "Z-Axis": {
+            "SenEvent": 0,
+            "OAVelocity": 27,
+            "Peakmg": 38,
+            "RMSmg": 27,
+            "Kurtosis": 0,
+            "CrestFactor": 0,
+            "Skewness": 0,
+            "Deviation": 0,
+            "Peak-to-Peak Displacement": 0
+        },
+        "LogIndex": 0
+    },
+    "Device": {
+        "Events": 0,
+        "PowerSrc": 1,
+        "BatteryVolt": 0,
+        "Time": 1552537415
+    }
+}
+{
+    "SequenceNumber": 141,
+    "TotalLength": 78,
+    "SourceAddress": null,
+    "TempHumi": {
+        "Range": 0,
+        "Event": 0,
+        "SenVal": 24500
+    },
+    "Accelerometer": {
+        "X-Axis": {
+            "SenEvent": 0,
+            "OAVelocity": 20,
+            "Peakmg": 30,
+            "RMSmg": 21,
+            "Kurtosis": -12,
+            "CrestFactor": 359,
+            "Skewness": 46,
+            "Deviation": 24,
+            "Peak-to-Peak Displacement": 6
+        },
+        "Y-Axis": {
+            "SenEvent": 0,
+            "OAVelocity": 21,
+            "Peakmg": 32,
+            "RMSmg": 23,
+            "Kurtosis": -26,
+            "CrestFactor": 654,
+            "Skewness": 38,
+            "Deviation": 26,
+            "Peak-to-Peak Displacement": 4
+        },
+        "Z-Axis": {
+            "SenEvent": 0,
+            "OAVelocity": 27,
+            "Peakmg": 38,
+            "RMSmg": 27,
+            "Kurtosis": 0,
+            "CrestFactor": 0,
+            "Skewness": 0,
+            "Deviation": 0,
+            "Peak-to-Peak Displacement": 0
+        },
+        "LogIndex": 0
+    },
+    "Device": {
+        "Events": 0,
+        "PowerSrc": 1,
+        "BatteryVolt": 0,
+        "Time": 1552537415
+    }
+}
+{
+    "SequenceNumber": 141,
+    "TotalLength": 78,
+    "SourceAddress": null,
+    "TempHumi": {
+        "Range": 0,
+        "Event": 0,
+        "SenVal": 24500
+    },
+    "Accelerometer": {
+        "X-Axis": {
+            "SenEvent": 0,
+            "OAVelocity": 20,
+            "Peakmg": 30,
+            "RMSmg": 21,
+            "Kurtosis": -12,
+            "CrestFactor": 359,
+            "Skewness": 46,
+            "Deviation": 24,
+            "Peak-to-Peak Displacement": 6
+        },
+        "Y-Axis": {
+            "SenEvent": 0,
+            "OAVelocity": 21,
+            "Peakmg": 32,
+            "RMSmg": 23,
+            "Kurtosis": -26,
+            "CrestFactor": 654,
+            "Skewness": 38,
+            "Deviation": 26,
+            "Peak-to-Peak Displacement": 4
+        },
+        "Z-Axis": {
+            "SenEvent": 0,
+            "OAVelocity": 27,
+            "Peakmg": 38,
+            "RMSmg": 27,
+            "Kurtosis": 0,
+            "CrestFactor": 0,
+            "Skewness": 0,
+            "Deviation": 0,
+            "Peak-to-Peak Displacement": 0
+        },
+        "LogIndex": 0
+    },
+    "Device": {
+        "Events": 0,
+        "PowerSrc": 1,
+        "BatteryVolt": 0,
+        "Time": 1552537415
+    }
+}
+{
+    "SequenceNumber": 141,
+    "TotalLength": 78,
+    "SourceAddress": null,
+    "TempHumi": {
+        "Range": 0,
+        "Event": 0,
+        "SenVal": 24500
+    },
+    "Accelerometer": {
+        "X-Axis": {
+            "SenEvent": 0,
+            "OAVelocity": 20,
+            "Peakmg": 30,
+            "RMSmg": 21,
+            "Kurtosis": -12,
+            "CrestFactor": 359,
+            "Skewness": 46,
+            "Deviation": 24,
+            "Peak-to-Peak Displacement": 6
+        },
+        "Y-Axis": {
+            "SenEvent": 0,
+            "OAVelocity": 21,
+            "Peakmg": 32,
+            "RMSmg": 23,
+            "Kurtosis": -26,
+            "CrestFactor": 654,
+            "Skewness": 38,
+            "Deviation": 26,
+            "Peak-to-Peak Displacement": 4
+        },
+        "Z-Axis": {
+            "SenEvent": 0,
+            "OAVelocity": 27,
+            "Peakmg": 38,
+            "RMSmg": 27,
+            "Kurtosis": 0,
+            "CrestFactor": 0,
+            "Skewness": 0,
+            "Deviation": 0,
+            "Peak-to-Peak Displacement": 0
+        },
+        "LogIndex": 0
+    },
+    "Device": {
+        "Events": 0,
+        "PowerSrc": 1,
+        "BatteryVolt": 0,
+        "Time": 1552537415
+    }
+}
+{
+    "SequenceNumber": 141,
+    "TotalLength": 78,
+    "SourceAddress": null,
+    "TempHumi": {
+        "Range": 0,
+        "Event": 0,
+        "SenVal": 24500
+    },
+    "Accelerometer": {
+        "X-Axis": {
+            "SenEvent": 0,
+            "OAVelocity": 20,
+            "Peakmg": 30,
+            "RMSmg": 21,
+            "Kurtosis": -12,
+            "CrestFactor": 359,
+            "Skewness": 46,
+            "Deviation": 24,
+            "Peak-to-Peak Displacement": 6
+        },
+        "Y-Axis": {
+            "SenEvent": 0,
+            "OAVelocity": 21,
+            "Peakmg": 32,
+            "RMSmg": 23,
+            "Kurtosis": -26,
+            "CrestFactor": 654,
+            "Skewness": 38,
+            "Deviation": 26,
+            "Peak-to-Peak Displacement": 4
+        },
+        "Z-Axis": {
+            "SenEvent": 0,
+            "OAVelocity": 27,
+            "Peakmg": 38,
+            "RMSmg": 27,
+            "Kurtosis": 0,
+            "CrestFactor": 0,
+            "Skewness": 0,
+            "Deviation": 0,
+            "Peak-to-Peak Displacement": 0
+        },
+        "LogIndex": 0
+    },
+    "Device": {
+        "Events": 0,
+        "PowerSrc": 1,
+        "BatteryVolt": 0,
+        "Time": 1552537415
+    }
+}
+{
+    "SequenceNumber": 141,
+    "TotalLength": 78,
+    "SourceAddress": null,
+    "TempHumi": {
+        "Range": 0,
+        "Event": 0,
+        "SenVal": 24500
+    },
+    "Accelerometer": {
+        "X-Axis": {
+            "SenEvent": 0,
+            "OAVelocity": 20,
+            "Peakmg": 30,
+            "RMSmg": 21,
+            "Kurtosis": -12,
+            "CrestFactor": 359,
+            "Skewness": 46,
+            "Deviation": 24,
+            "Peak-to-Peak Displacement": 6
+        },
+        "Y-Axis": {
+            "SenEvent": 0,
+            "OAVelocity": 21,
+            "Peakmg": 32,
+            "RMSmg": 23,
+            "Kurtosis": -26,
+            "CrestFactor": 654,
+            "Skewness": 38,
+            "Deviation": 26,
+            "Peak-to-Peak Displacement": 4
+        },
+        "Z-Axis": {
+            "SenEvent": 0,
+            "OAVelocity": 27,
+            "Peakmg": 38,
+            "RMSmg": 27,
+            "Kurtosis": 0,
+            "CrestFactor": 0,
+            "Skewness": 0,
+            "Deviation": 0,
+            "Peak-to-Peak Displacement": 0
+        },
+        "LogIndex": 0
+    },
+    "Device": {
+        "Events": 0,
+        "PowerSrc": 1,
+        "BatteryVolt": 0,
+        "Time": 1552537415
+    }
+}

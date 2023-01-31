@@ -1,0 +1,8 @@
+Texto Complementar, consumo enegético WISE-2410
+
+1.          WISE-2410 is in temperature chamber with metal case;
+2.          WISE-6610 is outside, on top of the chamber;
+3.          ADR enabled;
+4.          Ack function of WISE-2410 is disabled. Means WISE-2410 will not retry;
+5.          NA 902 frequency is used;
+6.          Insert 2 of new batteries into WISE-2410 (1760002647-01 3.6V/2500mAh AA Cylindrical Battery, non rechargeable.
